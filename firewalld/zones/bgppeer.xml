@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zone target="ACCEPT">
+  <short>BGP Peer</short>
+  <interface name="ens21"/>
+  <interface name="ens22"/>
+</zone>

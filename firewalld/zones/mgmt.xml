@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zone target="ACCEPT">
+  <short>Management</short>
+  <interface name="br1.148"/>
+  <interface name="br1.500"/>
+  <forward/>
+</zone>

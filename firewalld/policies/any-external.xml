@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<policy target="ACCEPT">
+  <ingress-zone name="allowany"/>
+  <ingress-zone name="allowssh"/>
+  <ingress-zone name="allowweb"/>
+  <ingress-zone name="guest"/>
+  <ingress-zone name="home"/>
+  <ingress-zone name="mgmt"/>
+  <egress-zone name="external"/>
+</policy>

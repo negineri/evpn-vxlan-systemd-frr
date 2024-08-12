@@ -1,0 +1,12 @@
+[Match]
+Name=br1
+
+[Network]
+VLAN=br1.132
+VLAN=br1.134
+VLAN=br1.148
+VLAN=br1.156
+VLAN=br1.172
+VLAN=br1.100
+VLAN=br1.200
+VLAN=br1.500

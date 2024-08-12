@@ -1,0 +1,9 @@
+[Match]
+Name=ens18
+
+[Network]
+DHCPPrefixDelegation=no
+IPv6SendRA=no
+IPv6AcceptRA=no
+DHCP=no
+DHCPServer=no

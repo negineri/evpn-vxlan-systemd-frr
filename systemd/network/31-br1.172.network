@@ -1,0 +1,13 @@
+[Match]
+Name=br1.172
+
+[Network]
+Address=10.17.72.1/24
+DHCPPrefixDelegation=yes
+IPv6SendRA=yes
+IPv6AcceptRA=no
+
+[DHCPPrefixDelegation]
+UplinkInterface=ens19
+SubnetId=0x48
+Announce=yes

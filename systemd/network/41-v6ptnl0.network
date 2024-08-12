@@ -1,0 +1,9 @@
+[Match]
+Name=v6ptnl0
+
+[Network]
+DefaultRouteOnDevice=true
+
+
+[Address]
+Address=<割り当てられたグローバルIP>

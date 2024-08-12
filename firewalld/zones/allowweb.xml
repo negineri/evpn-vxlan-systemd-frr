@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<zone>
+  <short>allow web</short>
+  <interface name="br1.172"/>
+  <interface name="br1.200"/>
+  <forward/>
+</zone>

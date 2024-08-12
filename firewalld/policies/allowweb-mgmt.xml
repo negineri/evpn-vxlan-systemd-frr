@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<policy target="CONTINUE">
+  <ingress-zone name="allowweb"/>
+  <egress-zone name="mgmt"/>
+  <rule family="ipv4">
+    <source address="192.168.38.41"/>
+    <destination address="192.168.99.81"/>
+    <service name="ssh"/>
+    <accept/>
+  </rule>
+</policy>

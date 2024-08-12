@@ -1,0 +1,13 @@
+[Match]
+Name=vnet0164
+
+[Network]
+Address=10.17.64.1/24
+DHCPPrefixDelegation=yes
+IPv6SendRA=yes
+IPv6AcceptRA=no
+
+[DHCPPrefixDelegation]
+UplinkInterface=ens19
+SubnetId=0x40
+Announce=yes

@@ -1,0 +1,11 @@
+[NetDev]
+Name=vxlan_vnet0164
+Kind=vxlan
+MTUBytes=9000
+
+[VXLAN]
+VNI=10164
+MacLearning=false
+DestinationPort=4789
+Local=10.16.0.13
+Independent=true

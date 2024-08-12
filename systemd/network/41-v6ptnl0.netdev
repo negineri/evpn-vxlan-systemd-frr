@@ -1,0 +1,10 @@
+[NetDev]
+Name=v6ptnl0
+Kind=ip6tnl
+#MTUBytes=1460
+
+[Tunnel]
+Mode=ipip6
+Local=<接続元IP>
+Remote=<接続先IP>
+EncapsulationLimit=none

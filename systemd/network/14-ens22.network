@@ -1,0 +1,10 @@
+[Match]
+Name=ens22
+
+[Network]
+Address=192.168.17.13/28
+DHCPPrefixDelegation=no
+IPv6SendRA=no
+IPv6AcceptRA=no
+DHCP=no
+DHCPServer=no

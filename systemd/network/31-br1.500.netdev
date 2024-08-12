@@ -1,0 +1,6 @@
+[NetDev]
+Name=br1.500
+Kind=vlan
+
+[VLAN]
+Id=500
